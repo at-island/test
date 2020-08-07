@@ -1,0 +1,44 @@
+.bttn {
+  margin: 100px 0px 0px 50px;
+}
+
+.btn {
+  background: blue;
+  color: white;
+  text-align: center;
+  border: 10px solid red;
+  border-radius: 30%;
+  padding: 50px 100px;
+}
+
+.btn:hover{
+  background: pink;
+}
+
+
+
+
+.scroll {
+  -ms-writing-mode: tb-rl;
+  writing-mode: vertical-rl;
+}
+
+.scroll2 {
+  -ms-writing-mode: tb-rl;
+  writing-mode: vertical-rl;
+  border: 1px solid;
+  height: 80px;
+  margin-left: 25px;
+}
+
+
+
+
+footer {
+  margin-top: 200px;
+  text-align: center;
+}
+
+
+
+
